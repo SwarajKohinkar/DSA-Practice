@@ -7,7 +7,8 @@ The goal is to build strong problem-solving skills through consistent practice.
 
 ## 📌 Roadmap
 
-- [x] C Basics  
+- [x] C Basics
+- [ ] Patterns  
 - [ ] Arrays  
 - [ ] Strings  
 - [ ] Recursion  
@@ -27,4 +28,4 @@ The goal is to build strong problem-solving skills through consistent practice.
 This section tracks daily progress and problems solved.
 
 - **Day 1:** Hello World (C++ Basics)
-- **Day 2:** array1 (C++ Basics)
+- **Day 2:** arrays, strings, functions (C++ Basics)
