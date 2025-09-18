@@ -1,1 +1,2 @@
-8
+Enter 5 elements: Value inside function: 1976470417
+Value inside main function: 1976470417
