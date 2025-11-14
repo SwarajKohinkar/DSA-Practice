@@ -30,3 +30,4 @@ This section tracks daily progress and problems solved.
 - **Day 1:** Hello World (C++ Basics)
 - **Day 2:** arrays, strings, functions (C++ Basics)
 - **Day 2:** Compeleted with Basic C++
+- **Day 3:** Started with Pattern
