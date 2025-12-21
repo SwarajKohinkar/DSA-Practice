@@ -29,4 +29,9 @@ This section tracks daily progress and problems solved.
 
 - **Day 1:** Hello World (C++ Basics)
 - **Day 2:** arrays, strings, functions (C++ Basics)
-- **Day 2:** Compeleted with Basic C++
+- **Day 3:** Completed with Basic C++
+- **Day 4:** Started with Patterns
+- **Day 5:** Solved the pattern of Right angle triangle in *
+- **Day 6 - Day 35:** Skipped!
+- **Day 36:** Restarted with the Patterns
+- **Day 37:** Patterns of Right Angle riangle, Equilateral Triangle, Inverted, With numbers and * 

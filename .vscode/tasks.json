@@ -2,12 +2,18 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "build and run active cpp file",
+      "label": "Build & Run C++ (global for all folders)",
       "type": "shell",
-      "command": "cmd.exe",
+      "command": "powershell.exe",
       "args": [
-        "/c",
-        "if /i \"${fileExtname}\"==\".cpp\" ( g++ -std=c++17 -o ${fileDirname}\\${fileBasenameNoExtension}.exe ${file} && ${fileDirname}\\${fileBasenameNoExtension}.exe < ${fileDirname}\\input.txt > ${fileDirname}\\output.txt ) else ( echo Please activate a .cpp file in VS Code before building. )"
+        "-NoProfile",
+        "-Command",
+        "if ('${fileExtname}' -ieq '.cpp') { " +
+          "Set-Location '${fileDirname}'; " +
+          "g++ -std=c++17 '${file}' -o '${fileBasenameNoExtension}.exe'; " +
+          "if ($?) { .\\'${fileBasenameNoExtension}.exe' < input.txt > output.txt; " +
+          "Write-Host '✅ Output written to output.txt in the current folder' } " +
+        "} else { Write-Host 'Please open a .cpp file first.' }"
       ],
       "group": {
         "kind": "build",
@@ -16,12 +22,15 @@
       "problemMatcher": []
     },
     {
-      "label": "run last exe",
+      "label": "Run last exe (global for all folders)",
       "type": "shell",
-      "command": "cmd.exe",
+      "command": "powershell.exe",
       "args": [
-        "/c",
-        "${fileDirname}\\${fileBasenameNoExtension}.exe < ${fileDirname}\\input.txt > ${fileDirname}\\output.txt"
+        "-NoProfile",
+        "-Command",
+        "Set-Location '${fileDirname}'; " +
+        ".\\'${fileBasenameNoExtension}.exe' < input.txt > output.txt; " +
+        "Write-Host '✅ Output written to output.txt in the current folder'"
       ],
       "group": "none",
       "problemMatcher": []
