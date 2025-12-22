@@ -25,7 +25,7 @@ The goal is to build strong problem-solving skills through consistent practice.
 
 ## 📝 Progress Log
 
-This section tracks daily progress and problems solved.
+This section tracks daily progress and problems that I have solved.
 
 - **Day 1:** Hello World (C++ Basics)
 - **Day 2:** arrays, strings, functions (C++ Basics)
@@ -35,3 +35,4 @@ This section tracks daily progress and problems solved.
 - **Day 6 - Day 35:** Skipped!
 - **Day 36:** Restarted with the Patterns
 - **Day 37:** Patterns of Right Angle riangle, Equilateral Triangle, Inverted, With numbers and * 
+- **Day 38:** Solved the patterns of ASCII charaters 
