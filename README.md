@@ -32,9 +32,10 @@ This section tracks daily progress and problems that I have solved.
 - **Day 3:** Completed with Basic C++
 - **Day 4:** Started with Patterns
 - **Day 5:** Solved the pattern of Right angle triangle in *
-- **Day 6 - Day 35:** Skipped!
-- **Day 36:** Restarted with the Patterns
-- **Day 37:** Patterns of Right Angle triangle, Equilateral Triangle, Inverted, With numbers and * 
-- **Day 38:** Solved the Patterns of ASCII characters
-- **Day 39:** Ended with Patterns
-- **Day 38:** Started Learning  C++ STL
+- **Day 6 - 30:** Skipped!
+- **Day 31:** Restarted with the Patterns
+- **Day 32:** Patterns of Right Angle triangle, Equilateral Triangle, Inverted, With numbers and * 
+- **Day 33:** Solved the Patterns of ASCII characters
+- **Day 34:** Ended with Patterns
+- **Day 35:** Started Learning  C++ STL
+- **Day 35:** Learned Pairs in STL
