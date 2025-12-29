@@ -36,3 +36,5 @@ This section tracks daily progress and problems that I have solved.
 - **Day 36:** Restarted with the Patterns
 - **Day 37:** Patterns of Right Angle triangle, Equilateral Triangle, Inverted, With numbers and * 
 - **Day 38:** Solved the Patterns of ASCII characters
+- **Day 39:** Ended with Patterns
+- **Day 38:** Started Learning  C++ STL
