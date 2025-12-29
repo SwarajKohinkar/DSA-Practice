@@ -38,4 +38,4 @@ This section tracks daily progress and problems that I have solved.
 - **Day 33:** Solved the Patterns of ASCII characters
 - **Day 34:** Ended with Patterns
 - **Day 35:** Started Learning  C++ STL
-- **Day 35:** Learned Pairs in STL
+- **Day 36:** Learned Pairs in STL
