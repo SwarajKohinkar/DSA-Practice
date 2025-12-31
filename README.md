@@ -8,7 +8,7 @@ The goal is to build strong problem-solving skills through consistent practice.
 ## 📌 Roadmap
 
 - [x] C Basics
-- [ ] Patterns  
+- [x] Patterns  
 - [ ] Arrays  
 - [ ] Strings  
 - [ ] Recursion  
