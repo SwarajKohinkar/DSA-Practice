@@ -1,31 +1,23 @@
 # DSA Practice
 
 This repository contains my journey of learning and practicing **Data Structures and Algorithms (DSA)** using C++ (and later other languages if needed).  
-The goal is to build strong problem-solving skills through consistent practice.
+The goal is to build strong problem solving skills through consistent practice.
 
 ---
 
 ## 📌 Roadmap
 
-- [x] C Basics
+- [x] C++ Basics
 - [x] Patterns  
-- [ ] Arrays  
-- [ ] Strings  
-- [ ] Recursion  
-- [ ] Sorting  
-- [ ] Searching  
-- [ ] Linked List  
-- [ ] Stacks & Queues  
-- [ ] Greedy Algorithms  
-- [ ] Dynamic Programming  
-- [ ] Graphs  
-- [ ] Advanced Topics  
+- [x] STL
+- [ ] Basic Maths 
+- [ ] Basic Recursion  
 
 ---
 
 ## 📝 Progress Log
 
-This section tracks daily progress and problems that I have solved.
+This section tracks daily progress and problems that I have solved. **Will Geniunely say SKIPPED! If i did.
 
 - **Day 1:** Hello World (C++ Basics)
 - **Day 2:** arrays, strings, functions (C++ Basics)
@@ -39,3 +31,5 @@ This section tracks daily progress and problems that I have solved.
 - **Day 34:** Ended with Patterns
 - **Day 35:** Started Learning  C++ STL
 - **Day 36:** Learned Pairs in STL
+- **Day 37:** Learned Vectors in STL
+- **Day 38:** Learned Lists in STL
